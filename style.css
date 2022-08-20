@@ -1,4 +1,4 @@
-body {
+<!--body {
   background-color: powderblue;
 }
 h1 {
@@ -13,4 +13,7 @@ p {
   border: 2px solid yellow;
     padding: 30px;
     margin: 50px;
+}-->
+table, th, td {
+border: 1px solid black;
 }
